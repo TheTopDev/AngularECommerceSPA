@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\cart",
+    "\\src\\app\\menuItems",
+    "\\src\\app\\menuItems\\list-menu-items",
+    "\\src\\app\\models",
+    "\\src\\app\\services",
+    "\\src\\assets"
+  ],
+  "SelectedNode": "\\src\\app\\models\\menuItem.model.ts",
+  "PreviewInSolutionExplorer": false
+}
